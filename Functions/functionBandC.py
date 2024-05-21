@@ -7,3 +7,6 @@ def functionC():
     functionB()
     
     print("Done")
+    
+def functionZ():
+    print("Good function to have")
