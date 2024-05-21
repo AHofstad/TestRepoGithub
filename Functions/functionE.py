@@ -4,11 +4,7 @@
 
 def functionE():
     #Some Filler Text
-    print("Done")
-    #More filler text
-    
-    print("More details")
-    
+    print("Done")   
     print("Too Long")
     
     print("This is the end")
