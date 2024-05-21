@@ -1,5 +1,5 @@
 def functionB():
-    print("Done with C")
+    print("Done with B")
     
 def functionC():
     functionB()
