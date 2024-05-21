@@ -1,9 +1,3 @@
-#Filler text about that this function will move around
-
-#More Filler Text
-
-#Even more Filler text
-
 def functionE():
     #Some Filler Text
     print("Done")   
@@ -13,3 +7,9 @@ def functionE():
     #Filler Text end of function
     
 #More Filler Text afterwards
+
+#Filler text about that this function will move around
+
+#More Filler Text
+
+#Even more Filler text
