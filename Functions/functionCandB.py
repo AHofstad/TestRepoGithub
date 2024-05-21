@@ -7,3 +7,5 @@ def functionC():
     
 def functionB():
     print("Done with B")
+    
+    print("End of Function B")
